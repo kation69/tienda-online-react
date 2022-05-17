@@ -1,0 +1,49 @@
+[{
+    "nombre":"TCL 40ES560 Smart TV de 40 Pulgadas con Full HD, LED, HDMI, USB, WiFi y sintonizador Triple, Color Negro String",
+    "imagen":"TCL.jpg",
+    "codigo":"TCL 40ES560",
+    "descripcion":"Tamaño de pantalla   40 Pulgadas\
+Servicios de Internet compatibles   Netflix, Android_tv, YouTube\
+Tecnología de conectividad  HDMI\
+Marca   TCL\
+Resolución  1080p\
+Tecnología de pantalla  LED\
+Nombre del modelo   40ES560\
+Frecuencia de actualización 60 Hz\
+Función especial    Internet\
+Año del modelo  2019",
+    "precio":"279,99",
+    "numero_unidades":"15"
+},
+{
+    "nombre":"Andrino 43 Pulgadas 4K Smart TV AN43U01 Televisor 109 cm UHD LED Sintonizador T2/S2/C Android TV, Asistente de Google, Play Store, Prime Video, Netflix, DAZN, HBO MAX, Chromecast Wi-Fi Bluetooth HDR",
+    "imagen":"",
+    "codigo":"AN43U01",
+    "descripcion":"\
+Tamaño de pantalla  43 Pulgadas\
+Servicios de Internet compatibles   Netflix, Amazon Prime Video, YouTube, movistar+, Apple TV, Disney+, Mitele, HBOmax, Atres\
+Tipo de conector    Ethernet\
+Marca   ANDRINO\
+Resolución del escáner  4K\
+Tecnología de pantalla  LED\
+Función especial    Netflix\
+Año del modelo  2021\
+Compatibilidad del montaje  Montaje en pared\
+Tasa de contraste de imagen 1400:1",
+    "precio":"349",
+    "numero_unidades":"0"
+},
+{
+    "nombre":"Televisión Kiano SlimTV 58 [147 cm, 4K UHD] Multimedia USB (DVB-T2/S2/C, Ci, Triple Tuner, Dolby Audio, PVR, Triple HDMI, 8.5 ms, LED, Direct LED, UHD)",
+    "imagen":"",
+    "codigo":"Kiano SlimTV 58",
+    "descripcion":"Tamaño de pantalla   58 Pulgadas\
+Tipo de conector    USB, HDMI\
+Marca   Kiano\
+Resolución del escáner  4K\
+Tecnología de pantalla  LED\
+Tecnología del sintonizador DVB-C, DVB-S2, DVB-T2\
+Interfaz de hardware    USB, HDMI",
+    "precio":"399,99",
+    "numero_unidades":"3"
+}]

@@ -1,0 +1,50 @@
+[
+    {
+    "nombre":"Fleur. Mi desesperada decisión (DARKS 0)",
+    "imagen":"Fleur.jpg",
+    "codigo":"Tapa blanda - 10 marzo 2022",
+    "descripcion":"Ariana Godoy vuelve con la precuela de HEIST, una novela trepidante y llena de giros inesperados.\
+\
+Un brutal asesinato, una familia rota y un destino más cruel... que la muerte\
+\
+Una noche es suficiente para que la vida de una persona cambie y se destruya. Después de sobrevivir al brutal asesinato de su familia, Fleur Dupont decide dedicarse en cuerpo y alma a intentar resolver el puzle que hay en su cabeza. ¿Quién fue capaz de asesinar a sangre fría a sus padres y a su hermana? ¿Por qué no recuerda nada? Y, sobre todo, ¿por qué solo ella sobrevivió a la matanza familiar?",
+    "precio":"17.05",
+    "numero_unidades":"4"
+},
+{
+    "nombre":"Encuentra tu persona vitamina (F. COLECCION)",
+    "imagen":"Encuentra_tu_persona_vitamina.jpg",
+    "codigo":"Audiolibro",
+    "descripcion":"¿Por qué hay personas que nos hacen sufrir tanto y otras que nos generan confianza y cuya sola presencia nos reconforta? ¿Por qué hay gente que tiene tendencia a establecer relaciones complicadas y dolorosas? ¿Amamos como nos amaron? ¿Hay «algo» bioquímico detrás de la confianza, el apego y el amor? ¿Cómo podemos acertar a la hora de elegir pareja?\
+\
+Estamos diseñados para vivir en familia y en sociedad, relacionarnos y querernos. Nuestra felicidad va a depender en gran medida de la capacidad que tengamos para mantener buenas relaciones con aquellos que nos rodean. Muchos, hoy en día, arrastramos heridas emocionales que nos impiden conectar de forma sana con el entorno. Encuentra tu persona vitamina te ayudará a comprender el vínculo con tus padres, tus hijos, tu pareja, tus amigos y tus compañeros de trabajo a la vez que entiendes tu historia emocional. Porque cuando uno se comprende, se siente aliviado.\
+\
+La doctora Marian Rojas Estapé te acerca al apego, a la infancia y al amor desde un punto de vista científico, psicológico y humano, y te habla de una hormona fundamental, la oxitocina.\
+\
+Un libro que te impulsa a encontrar personas vitamina, aquellas que sacan lo mejor de ti, te inspiran, te apoyan y con ello mejoran tu sistema inmune.",
+    "precio":"0",
+    "numero_unidades":"3"
+},
+{
+    "nombre":"Encuentra tu persona vitamina (F. COLECCION)",
+    "imagen":"Encuentra_tu_persona_vitamina2.jpg",
+    "codigo":"Tapa blanda - 15 marzo 2019",
+    "descripcion":"¿Por qué hay personas que nos hacen sufrir tanto y otras que nos generan confianza y cuya sola presencia nos reconforta? ¿Por qué hay gente que tiene tendencia a establecer relaciones complicadas y dolorosas? ¿Amamos como nos amaron? ¿Hay «algo» bioquímico detrás de la confianza, el apego y el amor? ¿Cómo podemos acertar a la hora de elegir pareja?\
+\
+Estamos diseñados para vivir en familia y en sociedad, relacionarnos y querernos. Nuestra felicidad va a depender en gran medida de la capacidad que tengamos para mantener buenas relaciones con aquellos que nos rodean. Muchos, hoy en día, arrastramos heridas emocionales que nos impiden conectar de forma sana con el entorno. Encuentra tu persona vitamina te ayudará a comprender el vínculo con tus padres, tus hijos, tu pareja, tus amigos y tus compañeros de trabajo a la vez que entiendes tu historia emocional. Porque cuando uno se comprende, se siente aliviado.\
+\
+La doctora Marian Rojas Estapé te acerca al apego, a la infancia y al amor desde un punto de vista científico, psicológico y humano, y te habla de una hormona fundamental, la oxitocina.\
+\
+Un libro que te impulsa a encontrar personas vitamina, aquellas que sacan lo mejor de ti, te inspiran, te apoyan y con ello mejoran tu sistema inmune.",
+    "precio":"17,50",
+    "numero_unidades":"2"
+},
+{
+    "nombre":"Cómo hacer que te pasen cosas buenas: Entiende tu cerebro, gestiona tus emociones, mejora tu vida (Fuera de colección)",
+    "imagen":"ComoHacer.jpg",
+    "codigo":"Tapa blanda - 9 octubre 2018",
+    "descripcion":"Uniendo el punto de vista científico, psicológico y humano, la autora nos ofrece una reflexión profunda, salpicada de útiles consejos y con vocación eminentemente didáctica, acerca de la aplicación de nuestras propias capacidades al empeño de procurarnos una existencia plena y feliz: conocer y optimizar determinadas zonas del cerebro, fijar metas y objetivos en la vida, ejercitar la voluntad, poner en marcha la inteligencia emocional, desarrollar la asertividad, evitar el exceso de autocrítica y autoexigencia, reivindicar el papel del optimismo…",
+    "precio":"18.90",
+    "numero_unidades":"0"
+}
+]
